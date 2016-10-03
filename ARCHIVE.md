@@ -13,6 +13,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - LastFM https://github.com/lastfm/lastfm-iphone
 - Mume https://github.com/opensourceios/Mume
 - Pancake https://github.com/Imaginea/pancake-ios
+- Pi https://github.com/opensourceios/Pi
 - PocketFlix https://code.google.com/archive/p/metasyntactic/wikis/PocketFlix.wiki
 - Repo https://github.com/ricburton/Repo
 - Speak https://github.com/opensourceios/speakability
@@ -20,6 +21,7 @@ This is an archive of the [main list](https://github.com/dkhamsing/open-source-i
 - Swift Off https://github.com/opensourceios/swift-off-todo
 - Vim https://github.com/applidium/Vim
 - XPilot http://7b5labs.com/xpilot.git/
+- Yorkie https://github.com/opensourceios/YorkieApp
 - iOctocat https://github.com/dennisreimann/ioctocat
 - wikiHow https://github.com/tderouin/wikiHow-iPhone-Application
 
